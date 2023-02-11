@@ -30,3 +30,35 @@ C:\Users\dlnew\OneDrive\School\Spring 2023\C# Programming II_CMSC 2204\Week 3\We
 C:\Users\dlnew\OneDrive\School\Spring 2023\C# Programming II_CMSC 2204\Week 3\Week3Assignment\Week3Assignment\obj\Debug\net6.0\Week3Assignment.pdb
 C:\Users\dlnew\OneDrive\School\Spring 2023\C# Programming II_CMSC 2204\Week 3\Week3Assignment\Week3Assignment\obj\Debug\net6.0\Week3Assignment.genruntimeconfig.cache
 C:\Users\dlnew\OneDrive\School\Spring 2023\C# Programming II_CMSC 2204\Week 3\Week3Assignment\Week3Assignment\obj\Debug\net6.0\ref\Week3Assignment.dll
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\bin\Debug\net6.0\appsettings.Development.json
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\bin\Debug\net6.0\appsettings.json
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\bin\Debug\net6.0\Week3Assignment.exe
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\bin\Debug\net6.0\Week3Assignment.deps.json
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\bin\Debug\net6.0\Week3Assignment.runtimeconfig.json
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\bin\Debug\net6.0\Week3Assignment.dll
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\bin\Debug\net6.0\Week3Assignment.pdb
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\Week3Assignment.csproj.AssemblyReference.cache
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\Week3Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\Week3Assignment.AssemblyInfoInputs.cache
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\Week3Assignment.AssemblyInfo.cs
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\Week3Assignment.csproj.CoreCompileInputs.cache
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\Week3Assignment.MvcApplicationPartsAssemblyInfo.cs
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\Week3Assignment.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\staticwebassets\msbuild.Week3Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.Week3Assignment.props
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Week3Assignment.props
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Week3Assignment.props
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\staticwebassets.build.json
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\staticwebassets.development.json
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\scopedcss\bundle\Week3Assignment.styles.css
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\Week3Assignment.csproj.CopyComplete
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\Week3Assignment.dll
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\refint\Week3Assignment.dll
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\Week3Assignment.pdb
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\Week3Assignment.genruntimeconfig.cache
+D:\Documents - HDD\GitHub\Week4CSC\Week3Assignment\obj\Debug\net6.0\ref\Week3Assignment.dll
