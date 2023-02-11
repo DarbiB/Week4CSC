@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dlnew\\OneDrive\\School\\Spring 2023\\C# Programming II_CMSC 2204\\Week 3\\Week3Assignment\\Week3Assignment\\Week3Assignment.csproj": {}
+    "D:\\Documents - HDD\\GitHub\\Week4CSC\\Week3Assignment\\Week3Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dlnew\\OneDrive\\School\\Spring 2023\\C# Programming II_CMSC 2204\\Week 3\\Week3Assignment\\Week3Assignment\\Week3Assignment.csproj": {
+    "D:\\Documents - HDD\\GitHub\\Week4CSC\\Week3Assignment\\Week3Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dlnew\\OneDrive\\School\\Spring 2023\\C# Programming II_CMSC 2204\\Week 3\\Week3Assignment\\Week3Assignment\\Week3Assignment.csproj",
+        "projectUniqueName": "D:\\Documents - HDD\\GitHub\\Week4CSC\\Week3Assignment\\Week3Assignment.csproj",
         "projectName": "Week3Assignment",
-        "projectPath": "C:\\Users\\dlnew\\OneDrive\\School\\Spring 2023\\C# Programming II_CMSC 2204\\Week 3\\Week3Assignment\\Week3Assignment\\Week3Assignment.csproj",
+        "projectPath": "D:\\Documents - HDD\\GitHub\\Week4CSC\\Week3Assignment\\Week3Assignment.csproj",
         "packagesPath": "C:\\Users\\dlnew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dlnew\\OneDrive\\School\\Spring 2023\\C# Programming II_CMSC 2204\\Week 3\\Week3Assignment\\Week3Assignment\\obj\\",
+        "outputPath": "D:\\Documents - HDD\\GitHub\\Week4CSC\\Week3Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dlnew\\AppData\\Roaming\\NuGet\\NuGet.Config",

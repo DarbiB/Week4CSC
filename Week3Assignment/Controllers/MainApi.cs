@@ -20,7 +20,19 @@ namespace TestAPI.Controllers
                 double varianceValue = 0;
 
 
-                try { 
+            //Logging function
+            List<int> LogObject(List<int> list)
+            {
+                foreach (int i in list)
+                {
+                    System.Diagnostics.Debug.WriteLine(i);
+                }
+                return list;
+            }
+
+            LogObject(lint);
+
+            try { 
                 lint.Sort();
 
                 foreach (int i in lint)
